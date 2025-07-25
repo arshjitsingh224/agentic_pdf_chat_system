@@ -5,7 +5,6 @@ An intelligent document chat system that uses **LangGraph** for orchestration an
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)
 ![LangGraph](https://img.shields.io/badge/LangGraph-Latest-green.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## 🌟 Features
 
@@ -174,22 +173,8 @@ Contributions are welcome! Here are some ways you can help:
 4. **Push to the branch** (`git push origin feature/amazing-feature`)
 5. **Open a Pull Request**
 
-### Development Ideas
-- [ ] Add support for more document formats (DOCX, TXT, HTML)
-- [ ] Implement conversation memory across sessions
-- [ ] Add support for multiple PDFs
-- [ ] Integration with cloud storage (AWS S3, Google Drive)
-- [ ] Custom embedding models
-- [ ] Advanced query preprocessing
-- [ ] Export chat history
-- [ ] Multi-language support
 
-## 📊 Performance Metrics
 
-- **Query Response Time**: ~2-5 seconds (depending on source)
-- **PDF Processing**: ~10-30 seconds (varies by document size)
-- **Memory Usage**: ~500MB-2GB (depends on PDF size)
-- **Supported PDF Size**: Up to 50MB recommended
 
 ## 🐛 Troubleshooting
 
@@ -215,10 +200,6 @@ Solution: Consider using smaller PDFs or upgrading system memory
 Solution: Check internet connection for web search functionality
 ```
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **LangGraph** for orchestration framework
@@ -236,15 +217,9 @@ If you encounter any issues or have questions:
 2. Create a new issue with detailed description
 3. Join our discussions for feature requests
 
-## 🔮 Roadmap
-
-- [ ] **v2.0**: Multi-document support
-- [ ] **v2.1**: Cloud deployment options
-- [ ] **v2.2**: Advanced analytics dashboard
-- [ ] **v3.0**: Multi-modal support (images, tables)
 
 ---
 
 ⭐ **Star this repository if you found it helpful!**
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [Arshjit Singh](https://github.com/arshjitsingh224)
