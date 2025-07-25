@@ -209,16 +209,6 @@ Solution: Check internet connection for web search functionality
 - **Tavily** for web search capabilities
 - **FAISS** for efficient vector search
 
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Issues](https://github.com/yourusername/agentic-pdf-chat/issues) page
-2. Create a new issue with detailed description
-3. Join our discussions for feature requests
-
-
----
 
 ⭐ **Star this repository if you found it helpful!**
 
